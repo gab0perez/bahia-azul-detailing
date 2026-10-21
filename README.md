@@ -2,6 +2,9 @@
 
 Sitio web profesional y responsivo desarrollado por **ARCHITEKTON — Sistemas y Automatización** como propuesta comercial y técnica para **Bahía Azul Detailing**.
 
+🌐 **Sitio en Producción:** [https://bahia-azul-detailing.vercel.app](https://bahia-azul-detailing.vercel.app)  
+📦 **Repositorio GitHub:** [https://github.com/gab0perez/bahia-azul-detailing](https://github.com/gab0perez/bahia-azul-detailing)
+
 ---
 
 ## 🎨 1. Identidad Visual y Paleta de Colores
