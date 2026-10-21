@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="oceanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#168BFF" />
+      <stop offset="100%" stop-color="#061A2B" />
+    </linearGradient>
+    <linearGradient id="sparkleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D9F0FF" />
+      <stop offset="100%" stop-color="#168BFF" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#070A0E" />
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#168BFF" stroke-opacity="0.3" stroke-width="2" />
+  <!-- Wave / Hood Silhouette -->
+  <path d="M10 42 C 20 42, 24 30, 36 30 C 46 30, 50 36, 54 36" fill="none" stroke="url(#oceanGrad)" stroke-width="4" stroke-linecap="round" />
+  <!-- Dynamic Car Roofline -->
+  <path d="M14 36 C 22 24, 34 20, 48 24 L 52 28" fill="none" stroke="#D9F0FF" stroke-width="3" stroke-linecap="round" />
+  <!-- Detailing Sparkle -->
+  <path d="M44 14 L 46 20 L 52 22 L 46 24 L 44 30 L 42 24 L 36 22 L 42 20 Z" fill="url(#sparkleGrad)" />
+</svg>
